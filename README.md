@@ -1,4 +1,7 @@
 # googleContactNotes
+
+<a href="https://imgflip.com/gif/3na715"><img src="https://i.imgflip.com/3na715.gif" title="made at imgflip.com"/></a>
+
 placing notes on your contacts using google api
 
 download using git clone https://github.com/jolaya182/lvrgRedux.git
