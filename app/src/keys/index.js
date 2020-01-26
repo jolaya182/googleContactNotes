@@ -9,7 +9,7 @@
          
  */
 const Key = {
-  apiKey: 'AIzaSyCxOKfeYKBRYkH2EyLNSEmbErRQkCr7W2Q',
-  client_id: '1087606512645-u8g3d3mii0oun1uisqf3ko06r5j2sdpb.apps.googleusercontent.com',
+  apiKey: '',
+  client_id: '',
 };
 export default Key;

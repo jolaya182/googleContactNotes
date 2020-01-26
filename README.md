@@ -4,6 +4,8 @@
 
 placing notes on your contacts using google api
 
+go to the app/keys/index.js and insert your google apiKey and Client_id.
+
 download using git clone https://github.com/jolaya182/lvrgRedux.git
 
 run the command `npm start` and your main browser should appear with the application running
